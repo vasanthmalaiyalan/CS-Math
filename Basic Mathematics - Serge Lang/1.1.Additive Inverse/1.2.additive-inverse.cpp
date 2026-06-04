@@ -13,7 +13,7 @@ int main() {
     std::cout << "-a    = " << -a << '\n';
     std::cout << "a+(-a)= " << a + (-a) << '\n';
 
-    std::cout << "\n=== Double Minus ===\n";
+    std::cout << "\n=== Double Minus (Additive inverse) ===\n";
 
     std::cout << "-(-a) = " << -(-a) << '\n';
 
