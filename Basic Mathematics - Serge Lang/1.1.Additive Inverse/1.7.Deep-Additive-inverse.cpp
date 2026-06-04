@@ -137,3 +137,89 @@ int main() {
     std::cout << "Anuswer same.\n";
 
 }
+
+/*
+ ./a.out
+=====================================
+1.Additive Inverse
+=====================================
+a = 5
+inverse(a) = -5
+
+Check:
+a + inverse(a)
+5 + -5 = 0
+
+Meaning:
+-5 is the additive inverse of 5
+
+===================================
+2. Additive Inverse Of -5
+======================================
+number = -5
+inverse(-5) = 5
+
+Check:
+-5 + 5 = 0
+
+This is exactly:
+-(-5) = 5
+
+=========================================
+3. Double Inverse
+=========================================
+x = 5
+first inverse = -5
+second inverse = 5
+
+-(-x) = x
+
+first inverse = -5
+second_inverse = 5
+
+-(-x) = x
+
+====================================
+4.Subtraction Definition
+======================================
+p = 10
+q = 3
+
+p - q = 7
+p + (-q) = 7
+
+a - b = a + (-b)
+
+==================================
+5. Why 5 - (-5) = 10 ?
+==================================
+5 - (-5)
+
+Definition:
+5 = (-5)
+=
+5 + ( inverse of -5 )
+
+inverse of -5 = 5
+
+5 + -(-5)5 = 10
+
+==============================
+6. Commutativity
+===============================
+a + b = 8
+b + a = 8
+
+Order changed.
+Answer same.
+
+==================================
+7. Associativity
+=====================================
+(a+b)+c = 17
+a+(b+c) = 17
+
+Grouping changed .
+Anuswer same.
+
+*/
