@@ -40,7 +40,7 @@ int main() {
     std::cout << "\n";
 
     std::cout << "This is exactly:\n";
-    std:: "-(-5) = " << inverse_of_minus_five << "\n\n";
+    std::cout << "-(-5) = " << inverse_of_minus_five << "\n\n";
 
     std::cout << "=========================================\n";
     std::cout << "3. Double Inverse\n";
