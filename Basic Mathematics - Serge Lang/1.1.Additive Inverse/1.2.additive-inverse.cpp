@@ -41,3 +41,33 @@ int main() {
 
     return 0;
  }
+
+ /*
+ ./a.out
+a = 5
+b = 3
+
+=== Additive Inverse ===
+a     = 5
+-a    = -5
+a+(-a)= 0
+
+=== Double Minus ===
+-(-a) = 5
+
+=== Subtraction ===
+a-b    = 2
+a+(-b) = 2
+
+=== Commutativity ===
+a+b = 8
+b+a = 8
+
+=== Associativity ===
+(a+b)+c = 17
+a+(b+c) = 17
+
+=== Negative Of A Sum ===
+-(a+b) = -8
+-a + (-b) = -8
+ */
